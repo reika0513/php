@@ -1,0 +1,36 @@
+.header {
+    background: #000;
+}
+
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.quiz_content{
+    margin: 0 auto;
+    padding: 60px 90px;
+    max-width: 1230px;
+    width: 590px;
+}
+.question{
+    margin: 0 auto;
+    padding: 10px 20px;
+    width: 550px;
+    border-radius: 3px;
+    background: #000;
+    text-align: center;
+}
+.question_text{
+    color: #fff;
+    text-align: left;
+}
